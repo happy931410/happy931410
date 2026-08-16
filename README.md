@@ -24,7 +24,7 @@ Right now, I’m at [ClearFeed](https://clearfeed.ai/), which is an AI-driven su
 
 Before that, I spent four years at [Automatad](https://automatad.com/). Started as a content writer, leveled up to Content Manager after two years, and basically did all the things: inbound lead gen, content strategy, editorial planning, writing, email, organic social, and leading a small but mighty team of six-ish people from SEO, design, dev, and writing backgrounds.
 
-Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s the only kind of marketing that doesn’t make me want to crawl under my desk. Content should educate. It should build trust. Slowly, stubbornly, and with actual substance. I care (maybe too much) about who I’m creating for, and why. The how and where come after. If that sounds a little dramatic, well, welcome to my process. 🙃
+Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s the kind of marketing that doesn’t make me want to crawl under my desk. Content should educate. It should build trust. Slowly, stubbornly, and with actual substance. I care (maybe too much) about who I’m creating for, and why. The how and where come after. If that sounds a little dramatic, well, welcome to my process. 🙃
 
 ## What I work on
 
