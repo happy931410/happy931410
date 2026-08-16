@@ -67,4 +67,12 @@ Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s t
 
 ## Away from the blank page
 
-I'm a mother to a small human and a Siberian Husky. When I'm not working, I'm usually outside with a camera, reading fiction, fussing over houseplants, or attempting the dark art of plant propagation.
+I'm a mother to a small human and a three-year-old Siberian Husky girl. When I'm not working, I'm usually outside with a camera, reading fiction, fussing over houseplants, or attempting the dark art of plant propagation.🪴
+
+---
+
+<p align="center">
+  Got something interesting in mind? 
+  <a href="https://www.linkedin.com/in/happydas93/"><strong>Drop me a note on LinkedIn.</strong></a>
+  I’m usually quick to respond.
+</p>
