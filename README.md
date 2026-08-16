@@ -52,10 +52,20 @@ Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s t
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Buffer](https://img.shields.io/badge/Buffer-231F20?style=flat-square&logo=buffer&logoColor=white)
+
+**Email marketing**
+
+![GetResponse](https://img.shields.io/badge/GetResponse-00BAFF?style=flat-square&logo=getresponse&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
+
+**Customer research**
+
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![WhatConverts](https://img.shields.io/badge/WhatConverts-146EF5?style=flat-square)
+![Factors](https://img.shields.io/badge/Factors.ai-6C5CE7?style=flat-square)
 
 **AI & automation**
 
@@ -64,6 +74,11 @@ Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s t
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Chrome extensions**
+
+[![FanoutFox: AI Answer & GEO Inspector](https://img.shields.io/badge/FanoutFox-AI_Answer_%26_GEO_Inspector-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fanoutfox-ai-answer-geo-i/efgemipiccaljhahdacjbbkcemelojlj)
+[![ChatGPT Query Fan-Out, Sources & Citations Extractor](https://img.shields.io/badge/ChatGPT_Query_Fan--Out-Sources_%26_Citations-10A37F?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/chatgpt-query-fan-out-sou/ooblddofnkbfhopfnfoinjhkelbncplj)
 
 ## Away from the blank page
 
