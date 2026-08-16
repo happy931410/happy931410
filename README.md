@@ -31,8 +31,8 @@ Organic marketing is my hill to die on. It’s subtle, it’s slow, and it’s t
 - **Content strategy:** ICP-led roadmaps, editorial planning, buyer-journey gaps, and content operations
 - **SEO:** Search intent, keyword strategy, competitive research, content audits, refreshes, and reporting
 - **AI search:** GEO/AEO, fan-out query research, AI visibility tracking, and source-grounded optimization
-- **B2B writing:** Product-led blogs, comparison pages, case studies, landing pages, newsletters, and social content
-- **Distribution:** LinkedIn, X, Reddit, email, and content-led demand generation
+- **B2B writing:** Product-led blogs, SEO blogs, data-driven research studies, case studies, landing pages, newsletters, and social content
+- **Distribution:** LinkedIn, X, Reddit, email, Quora, and content-led demand generation
 - **AI workflows:** Practical systems that make research, writing, QA, and optimization faster without sanding off the voice
 
 ## My working stack
