@@ -74,5 +74,4 @@ I'm a mother to a small human and a three-year-old Siberian Husky girl. When I'm
 <p align="center">
   Got something interesting in mind? 
   <a href="https://www.linkedin.com/in/happydas93/"><strong>Drop me a note on LinkedIn.</strong></a>
-  I’m usually quick to respond.
 </p>
